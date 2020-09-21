@@ -1,6 +1,6 @@
 # MNIST_tensorflow
 
-**2019학년도 서울시립대학교 인공지능 과제**</br></br>
+**2019학년도 서울시립대학교 인공지능과목 과제**</br></br>
 
 MNIST image data를 사용하여 tensorflow로 convolution neural network를 설계하고 test data에 대한 예측 정확도를 99.6%까지 높혔다.
 
